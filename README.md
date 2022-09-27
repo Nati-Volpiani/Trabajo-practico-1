@@ -12,4 +12,5 @@
 
 # **¡Así que aprovechá y comprá todo lo que necesites que te lo llevamos a tu casa sin cargo!**
 
-![imagen](https://desktop/logo.jpg)
+![imagen](Users/natal/OneDrive/Escritorio/logo.jpg)
+
