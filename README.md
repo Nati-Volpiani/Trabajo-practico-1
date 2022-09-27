@@ -1,4 +1,4 @@
-#### **¡Bienvenidos a vivero virtual NatalV!**
+# **¡Bienvenidos a vivero virtual NatalV!**
 
 ## *Somos una pequeña familia que ama la naturaleza... tanto que decidimos trabajar con ella. Nuestro emprendimiento comenzó en tiempos de pandemia y nos ayudó a florecer en momentos difíciles, es por ello que tratamos de ofrecerles lo mejor que podemos ofrecer, y al alcance de su mano*
 
@@ -11,3 +11,5 @@
 - *Sustratos y fertilizantes*
 
 # **¡Así que aprovechá y comprá todo lo que necesites que te lo llevamos a tu casa sin cargo!**
+
+![imagen](https://Escritorio/logo.jpeg)
